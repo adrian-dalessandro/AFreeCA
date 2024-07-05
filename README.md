@@ -23,6 +23,12 @@ We are currently in the process of cleaning up the code and organizing it for re
 ## Installation
 
 ## Source Dataset
+The source datasets can be downloaded from the following locations:
+- ShanghaiTechA + ShanghaiTechB: [download](https://github.com/desenzhou/ShanghaiTechDataset)
+- JHU-CROWD++: [download](http://www.crowd-counting.com/) 
+- QNRF: [download](https://www.crcv.ucf.edu/data/ucf-qnrf/)
+- Penguins: [download](https://www.robots.ox.ac.uk/~vgg/data/penguins/)
+- CARPK: [download](https://lafi.github.io/LPN/)
 
 # Generating Synthetic Data
 
